@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    @apply text-3xl;
+  }
+}
+
+@layer components {
+}
+
+@layer utilities {
+}
